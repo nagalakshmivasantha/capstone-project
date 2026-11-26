@@ -1,0 +1,4 @@
+entity_id,event_timestamp,created_timestamp,feature_name,feature_value,source_version
+A,2023-12-29T00:00:00Z,2023-12-29T00:00:00Z,score,10,v1
+A,2024-01-07T00:00:00Z,2024-01-07T00:00:00Z,score,20,v2
+B,2024-01-04T00:00:00Z,2024-01-04T00:00:00Z,score,30,v1

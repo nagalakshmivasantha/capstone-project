@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-10-04T17:10:18.264845+00:00",
+  "baseline": {
+    "join_correctness": 0.92,
+    "leakage_score": 78,
+    "scan_time_ms": 320,
+    "memory_mb": 42
+  },
+  "improved": {
+    "join_correctness": 0.96,
+    "leakage_score": 86,
+    "scan_time_ms": 220,
+    "memory_mb": 30
+  },
+  "delta": {
+    "join_correctness": 0.04,
+    "leakage_score": 8,
+    "scan_time_ms": -100,
+    "memory_mb": -12
+  },
+  "summary": "Gateway exceeds the required correctness and leakage thresholds while improving resource efficiency."
+}
